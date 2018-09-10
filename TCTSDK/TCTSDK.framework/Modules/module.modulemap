@@ -1,0 +1,6 @@
+framework module TCTSDK {
+  umbrella header "TCTSDK.h"
+
+  export *
+  module * { export * }
+}
